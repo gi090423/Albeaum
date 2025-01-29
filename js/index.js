@@ -93,7 +93,7 @@ $(function () {
     gsap.to($cursor, {
       scale: 1.5,
       opacity: 0.4,
-      background: '#ad0961',
+      background: '#e99d0e',
       border: 'none',
       ease: Expo.easeOut,
     });
@@ -107,7 +107,7 @@ $(function () {
       width: '100px',
       height: '100px',
       opacity: 1,
-      background: '#ad0961',
+      background: '#e99d0e',
       border: 'none',
       innerHTML: 'view&nbsp;gallery',
       top: '-50px',
@@ -116,7 +116,7 @@ $(function () {
     gsap.to($cursortwo, {
       width: '110px',
       height: '110px',
-      border: '2px solid #ad0961',
+      border: '2px solid #e99d0e',
       background: 'transparent',
       top: '-55px',
       left: '-55px',
@@ -131,7 +131,7 @@ $(function () {
       opacity: 1,
       scale: 1,
       background: 'transparent',
-      border: '1px solid #ad0961',
+      border: '1px solid #e99d0e',
       innerHTML: '',
     });
     gsap.to($cursortwo, {
@@ -139,8 +139,8 @@ $(function () {
       opacity: 1,
       width: '8px',
       height: '8px',
-      border: '0px solid #ad0961',
-      background: '#ad0961',
+      border: '0px solid #e99d0e',
+      background: '#e99d0e',
       top: '-4px',
       left: '-4px',
     });
