@@ -75,7 +75,7 @@ li {
   background: transparent;
   border-radius: 50%;
   pointer-events: none;
-  border: 1px solid #ad0961;
+  border: 1px solid #e99d0e;
   position: fixed;
   z-index: 6;
   top: -25px;
@@ -95,7 +95,7 @@ li {
 .cursor-two {
   height: 8px;
   width: 8px;
-  background: #ad0961;
+  background: #e99d0e;
   border-radius: 50%;
   pointer-events: none;
   position: fixed;
@@ -360,7 +360,7 @@ li {
   z-index: 2;
   right: 0;
   bottom: 20%;
-  color: #ad0961;
+  color: #e99d0e;
 }
 
 #home .image-type span {
@@ -724,7 +724,7 @@ li {
 }
 
 .price .highlight {
-  color: #ad0961;
+  color: #e99d0e;
 }
 
 .service-item .highlight {
